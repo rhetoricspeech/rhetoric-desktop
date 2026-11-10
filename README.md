@@ -19,4 +19,4 @@ Rhetoric Desktop reads a built-in sample script for now. Your own speeches arriv
 
 support@rhetoricspeech.com · [rhetoricspeech.com/help](https://rhetoricspeech.com/help)
 
-This repository only hosts Rhetoric Desktop's installers; its source code is not published here. © Rhetoric. All rights reserved.
+This repository only hosts Rhetoric Desktop's installers; its source code is not published here. © 2026 Cortis LLC. All rights reserved.
