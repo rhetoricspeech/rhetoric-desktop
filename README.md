@@ -8,7 +8,7 @@ Apple silicon · macOS 13 or later · signed and notarized
 ## Install
 
 1. Open the downloaded file and drag **Rhetoric Desktop** into **Applications**.
-2. Open it from Applications. Rhetoric Desktop lives in your menu bar, not in the Dock: look for three short stacked lines.
+2. Open it from Applications. Rhetoric Desktop lives in your menu bar, not in the Dock: look for three stacked bars, widest at the top.
 3. Click that icon, choose **Settings…**, then **Connect to Rhetoric**, and sign in to your Rhetoric account in your browser.
 
 ## Early preview
